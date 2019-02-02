@@ -1,7 +1,7 @@
 # Google Drive CLI Client Binary Builds
 This is the binary builds of the [gdrive](https://github.com/prasmussen/gdrive) CLI client by [prasmussen](https://github.com/prasmussen) on GitHub.
 ## Why?
-It because they distribute their binary builds on Google drive, which is not very nice for HTTP CLI downloaders like [wget](https://www.gnu.org/software/wget/) and it is the reason why gdrive was invented. Recursion! By distributing their binaries on GitHub, gdrive is now wget-friendly to get.
+It because they distribute their binary builds on Google drive, which is not very nice for HTTP CLI downloaders like [wget](https://www.gnu.org/software/wget/) and it is the reason why gdrive was invented in the first place. Recursion! By distributing their binaries on GitHub, gdrive is now wget-friendly to get.
 ## Installing gdrive on linux
 To install gdrive on 64 bit linux
 ```
@@ -10,6 +10,8 @@ mv gdrive-linux-x64 gdrive
 chmod +x gdrive
 ./gdrive about
 ```
+### More Infos
+For more information about the gdrive, check out the [gdrive's Readme](https://github.com/prasmussen/gdrive/blob/master/README.md).
 ### Downloads
 | Filename               | Version | Description        | Shasum                                   |
 |:-----------------------|:--------|:-------------------|:-----------------------------------------|
