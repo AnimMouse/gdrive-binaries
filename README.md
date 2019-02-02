@@ -13,7 +13,7 @@ chmod +x gdrive
 ### More Infos
 For more information about the gdrive, check out the [gdrive's Readme](https://github.com/prasmussen/gdrive/blob/master/README.md).
 ### Downloads
-| Filename               | Version | Description        | Shasum                                   |
+| Filename               | Version | Description        | Secure Hash Algorithm Checksum           |
 |:-----------------------|:--------|:-------------------|:-----------------------------------------|
 | [gdrive-linux-x64](https://raw.githubusercontent.com/AnimMouse/gdrive-binaries/master/linux/gdrive-linux-x64) | 2.1.0 | Linux 64-bit | 4fd8391b300cac45963e53da44dcfe68da08d843 |
 | [gdrive-linux-386](https://raw.githubusercontent.com/AnimMouse/gdrive-binaries/master/linux/gdrive-linux-386) | 2.1.0 | Linux 32-bit | de9f49565fc62552fe862f08f84694ab4653adc2 |
